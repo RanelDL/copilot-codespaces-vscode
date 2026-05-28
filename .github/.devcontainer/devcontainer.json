@@ -1,0 +1,11 @@
+{
+    // name this config
+    "name":"Codespace fork skills",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
